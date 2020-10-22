@@ -1,14 +1,14 @@
 # 01 HTML CSS Git: Code Refactor
 
-Developer: David Harris
+Developer: David Harris - jdh.programmer@gmail.com
 
-jdh.programmer@gmail.com
 https://github.com/jdhprogrammer
 
 Project Repository: https://github.com/jdhprogrammer/Homework01-1022
+
 Project Deployment: https://jdhprogrammer.github.io/Homework01-1022/
 
-#### Project Description
+### Project Description
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this homework, a marketing agency has hired you to refactor an existing site to make it more accessible. 
 
@@ -20,39 +20,34 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 #### User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
 ## Developer's Process & Outcome
 
 ### Index.html
 
-    Looked over and examined all of the HTML code, Looking for ways to Optimize and simplify the things. Checked for Structural Elements that could be updated to Semantic HTML tags. Found several <div> that could be <section>, <div>'s with Classes that could simply be <header> & <footer>. Found CSS classes that were only used once on the HTML doc and converted them to Id selectors.
+Looked over and examined all of the HTML code, Looking for ways to Optimize andsimplify the things. Checked for Structural Elements that could be updated toSemantic HTML tags. Found several div that could be section, div's withClasses that could simply be header & footer. Found CSS classes that were onlyused once on the HTML doc and converted them to Id selectors.
 
-    For images... I add descriptions to there alt attributes. Since the "Banner" / Hero image is sourced from the CSS I wasn't able to add an Alt attribute... instead I added a Title attribute to the Hero Image section.
+For images... I add descriptions to there alt attributes. Since the "Banner" / Heroimage is sourced from the CSS I wasn't able to add an Alt attribute... instead Iadded a Title attribute to the Hero Image section.
 
-    Gave the Page Title a short, simple title with company name and there services.
-    Went back and Double Triple checked that I hadn't broken the links, images, text, etc. Actually found that I had broken links, by deleting the ID's they were jumping to on the page, and I had removed the styling on the letters "seo". Fixed both of these items.
+Gave the Page Title a short, simple title with company name and there services.
+Went back and Double Triple checked that I hadn't broken the links, images, text,etc. Actually found that I had broken links, by deleting the ID's they were jumpingto on the page, and I had removed the styling on the letters "seo". Fixed both ofthese items.
 
-    I Shifted a whole section up on the HTML document. I felt it flowed more like the webpage in that order... reading from top to bottom and left to right.
-
+I Shifted a whole section up on the HTML document. I felt it flowed more like thewebpage in that order... reading from top to bottom and left to right.
 
 ### Style.css
 
-    Similar process for the CSS stylesheet. Combed through every line, every id class element. Carefully made changes to match my updates in the index.html.
+Similar process for the CSS stylesheet. Combed through every line, every id classelement. Carefully made changes to match my updates in the index.html.
     
-    Changed some Classes to IDs. & some Classes to Element selectors.
+Changed some Classes to IDs. & some Classes to Element selectors.
 
-    Figure out some things I hadn't learned before. Like about the Hero image. And the ways certain CSS styles affect the webpage.
+Figure out some things I hadn't learned before. Like about the Hero image. And theways certain CSS styles affect the webpage.
 
-    Looked for Classes that were used for multiple divs or sections or h1 etc. If they were each affeceting the same type of element and had the same Style adjustments, then i removed the unique class name ending and combined the classes into one (by deleting the extras).
-
+Looked for Classes that were used for multiple divs or sections or h1 etc. If theywere each affeceting the same type of element and had the same Style adjustments,then i removed the unique class name ending and combined the classes into one (bydeleting the extras).
 
 ### Final Thoughts
-
 
 I enjoyed this project. I will be honest... when I started the project it was very hard. I am still trying to Wrap my brain around a lot of these concepts and the terminology... and Staring at the screen and the code All day/night. It taught me some good lessons about how I learn best, about needing to take breaks and get away from the code, and about writing, cleaning, and debugging code Very Carefully!  I hope I found most if not all the ways to optimize these documents... I would be interested to find out what things I missed or could have done better.
 
