@@ -1,8 +1,8 @@
 # 01 HTML CSS Git: Code Refactor
 
-#### Developer: David Harris - 
-jdh.programmer@gmail.com - 
-https://github.com/jdhprogrammer
+#### Developer: David Harris
+email: jdh.programmer@gmail.com - 
+github: https://github.com/jdhprogrammer
 
 Project Repository: https://github.com/jdhprogrammer/Homework01-1022
 
@@ -18,7 +18,7 @@ An important rule to follow when working with someone else's code is the *Scout 
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-#### User Story
+### User Story
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
