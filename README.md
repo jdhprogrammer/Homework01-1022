@@ -1,7 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
-Developer: David Harris - jdh.programmer@gmail.com
-
+#### Developer: David Harris - 
+jdh.programmer@gmail.com - 
 https://github.com/jdhprogrammer
 
 Project Repository: https://github.com/jdhprogrammer/Homework01-1022
