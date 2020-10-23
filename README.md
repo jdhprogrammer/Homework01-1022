@@ -53,9 +53,9 @@ I enjoyed this project. I will be honest... when I started the project it was ve
 
 ### Screenshots
 
-![Alt text](/assets/images/Project_Screenshots/Homework01_html-css.jpeg?raw=true "Html-CSS")
+![Screenshot of HTML & CSS](/assets/images/Project_Screenshots/Homework01_html-css.jpeg?raw=true "Html-CSS")
 
-![Alt text](assets/images/Project_Screenshots/Homework01_webpage.jpeg?raw=true "Webpage")
+![Screenshot of Working Webpage](/assets/images/Project_Screenshots/Homework01_webpage.jpeg?raw=true "Webpage")
 
 
 ```
