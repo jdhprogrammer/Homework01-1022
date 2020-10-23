@@ -51,6 +51,13 @@ Looked for Classes that were used for multiple divs or sections or h1 etc. If th
 
 I enjoyed this project. I will be honest... when I started the project it was very hard. I am still trying to Wrap my brain around a lot of these concepts and the terminology... and Staring at the screen and the code All day/night. It taught me some good lessons about how I learn best, about needing to take breaks and get away from the code, and about writing, cleaning, and debugging code Very Carefully!  I hope I found most if not all the ways to optimize these documents... I would be interested to find out what things I missed or could have done better.
 
+### Screenshots
+
+![Alt text](/assets/images/Project_Screenshots/Homework01_html-css.jpeg?raw=true "Html-CSS")
+
+![Alt text](assets/images/Project_Screenshots/Homework01_webpage.jpeg?raw=true "Webpage")
+
+
 ```
  _____ _                 _     __   __          
 |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
