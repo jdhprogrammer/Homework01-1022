@@ -4,15 +4,10 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Refactor and Optimization</title>
+    <title>Horiseon: SEO, ORM, SMM</title>
 </head>
 
 <body>
-    <div class="row">
-        <div style="text-align: center;" class="col">
-            <img src="assets/images/Project_Screenshots/Homework01_html-css.jpeg" alt="Screenshot of refactored html and css" srcset="">
-        </div>
-    </div>
     <header>
         <h1>Hori<span id="seo">seo</span>n</h1>
         <nav>
