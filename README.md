@@ -1,12 +1,14 @@
-# 01 HTML CSS Git: Code Refactor
+# Refactor_and_Optimization
 
 #### Developer: David Harris
 email: jdh.programmer@gmail.com - 
 github: https://github.com/jdhprogrammer
 
-Project Repository: https://github.com/jdhprogrammer/Homework01-1022
+Project Repository: https://github.com/jdhprogrammer/Refactor_and_Optimization
 
-Project Deployment: https://jdhprogrammer.github.io/Homework01-1022/
+Project Deployment: https://jdhprogrammer.github.io/Refactor_and_Optimization/
+
+## 01 HTML CSS Git: Code Refactor
 
 ### Project Description
 
